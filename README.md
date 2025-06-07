@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Aspiring+Data+Analyst|UI/UX+designer" alt="Typing SVG" />
 </p>
 
----
+
 
 <p align="center">
   <img src="https://gifdb.com/images/high/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif" alt="Data Analysis Metrics" width="500"/>
@@ -15,8 +15,6 @@
 <p align="center">
   <i>Transforming complex data into clear insights 📈🧠</i>
 </p>
-
----
 
 
 
