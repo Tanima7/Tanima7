@@ -8,6 +8,18 @@
 
 ---
 
+<p align="center">
+  <img src="https://gifdb.com/images/high/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif" alt="Data Analysis Metrics" width="500"/>
+</p>
+
+<p align="center">
+  <i>Transforming complex data into clear insights 📈🧠</i>
+</p>
+
+---
+
+
+
 ## 🚀 Tech & Tools I Work With
 
 ### 🧠 Data Analytics
