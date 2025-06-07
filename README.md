@@ -24,7 +24,7 @@
 - 🌱 Learning **Power BI**, **SQL**, **Framer**, and **Advanced Excel** right now  
 - 💻 I love blending storytelling with dashboards to uncover hidden insights  
 - 🎨 Big fan of pastel colors, clean visuals, and minimal aesthetic  
-- 🔥 Manifesting internships & big data dreams one dashboard at a time
+
 
 ---
 
