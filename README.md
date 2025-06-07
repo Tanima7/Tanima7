@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="350" alt="Pastel stars hearts gif" />
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="350" alt="Cozy magical forest gif" />
 </p>
+
 
 <p align="center">
   <i>✨ I turn raw, messy data into clean visuals & stories that sparkle ✨</i><br>
