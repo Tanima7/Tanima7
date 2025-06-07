@@ -7,10 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" width="350" alt="Cute pastel girl working on laptop gif" />
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="350" alt="Pastel stars hearts gif" />
 </p>
-
-
 
 <p align="center">
   <i>✨ I turn raw, messy data into clean visuals & stories that sparkle ✨</i><br>
