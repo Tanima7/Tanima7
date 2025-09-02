@@ -1,67 +1,57 @@
-<h1 align="center">
-  🌸 Hey, I'm Tanima Das! 🌸
+<h1 align="center"> 
+  🌸 Tanima Das 🌸  
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=EFA7A7&center=true&width=500&lines=Aspiring+Data+Analyst;Dashboard+Diva;Power+BI+Baddie;" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="350" alt="Cozy magical forest gif" />
-</p>
-
-
-<p align="center">
-  <i>✨ I turn raw, messy data into clean visuals & stories that sparkle ✨</i><br>
-  <i>📍 Kolkata-based | 🌿 Plant Mom | 🎨 Data + Design Obsessed</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F58DA9&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;ML+Learner+%26+Problem+Solver;Power+BI+%7C+SQL+%7C+Python" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌼 About Me
-
-- 🧠 Aspiring **Data Analyst** with a love for making data *pretty AND powerful*  
-- 🌱 Learning **Power BI**, **SQL**, **Framer**, and **Advanced Excel** right now  
-- 💻 I love blending storytelling with dashboards to uncover hidden insights  
-- 🎨 Big fan of pastel colors, clean visuals, and minimal aesthetic  
-
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="Data gif"/>
+</p>
 
 ---
 
-## ✨ Tech Stack
+## 🎯 About Me
+💡 I’m not just crunching numbers — I’m **designing stories with data**.  
+🎓 Engineering Student @ **Brainware University** (2027 graduate-to-be).  
+📊 Passion: **Analytics + ML + Beautiful Dashboards**.  
+🎨 Known for mixing **aesthetic visuals** with **hardcore analysis**.  
 
-### 📊 Data & Analysis
+---
+
+## ⚡ Tech Stack
+
+### 📊 Data & Analytics  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql" />
+  <br>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### 🎨 Design & Aesthetics
+### 🌐 Web & Scripting  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+  <br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=googleearth&logoColor=white"/>
+</p>
+
+### 🎨 Design & Visualization  
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white"/>
-</p>
-
-### 🌐 Web & Version Control
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+  <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white"/>
+</p> 
 
 ---
 
-
-## 🌷 Connect With Me
+## 🌐 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/tanima-das-3b4289282" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:tanimadas700@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -74,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EFA7A7&height=120&section=footer"/>
 </p>
